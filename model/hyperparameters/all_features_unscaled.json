@@ -1,13 +1,14 @@
 {
     "num_layers": 5,
-    "hidden_size_0": 545,
-    "hidden_size_1": 961,
-    "hidden_size_2": 714,
-    "hidden_size_3": 732,
-    "hidden_size_4": 334,
-    "dropout_rate": 0.3032938908301615,
-    "learning_rate": 0.0019042195465033124,
-    "look_back_days": 105,
-    "forecast_horizon": 8,
+    "hidden_size_0": 418,
+    "hidden_size_1": 193,
+    "hidden_size_2": 382,
+    "hidden_size_3": 257,
+    "hidden_size_4": 193,
+    "hidden_size_5": 386,
+    "dropout_rate": 0.2729,
+    "learning_rate": 0.00783,
+    "look_back_days": 25,
+    "forecast_horizon": 34,
     "best_loss": 17599.578125
 }

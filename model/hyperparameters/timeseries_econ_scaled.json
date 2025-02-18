@@ -1,13 +1,11 @@
 {
     "num_layers": 5,
-    "hidden_size_0": 819,
-    "hidden_size_1": 342,
-    "hidden_size_2": 909,
-    "hidden_size_3": 216,
-    "hidden_size_4": 739,
-    "dropout_rate": 0.16235140164051498,
-    "learning_rate": 0.00496762405867789,
-    "look_back_days": 77,
-    "forecast_horizon": 46,
+    "hidden_size_0": 543,
+    "hidden_size_1": 831,
+    "hidden_size_2": 486,
+    "dropout_rate": 0.343,
+    "learning_rate": 0.001073,
+    "look_back_days": 117,
+    "forecast_horizon": 16,
     "best_loss": 0.36611461639404297
 }
