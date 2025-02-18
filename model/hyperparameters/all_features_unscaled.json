@@ -1,5 +1,5 @@
 {
-    "num_layers": 5,
+    "num_layers": 6,
     "hidden_size_0": 418,
     "hidden_size_1": 193,
     "hidden_size_2": 382,
