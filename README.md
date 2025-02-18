@@ -1,1 +1,1 @@
-You can find all the necessary information and instructions in the Google Colab notebook StockPredictionModel.ipynb, which is included in this repository.
+All the necessary information and instructions are available in the Google Colab notebook StockPredictionModel.ipynb, which is included in this repository. I encourage you to open the project in Google Colab and give it a try!
